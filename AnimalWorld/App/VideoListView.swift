@@ -2,7 +2,7 @@
 //  VideoListView.swift
 //  AnimalWorld
 //
-//  Created by Mustafa on 17.02.2021.
+//  Created by Blue Genius on 17.02.2021.
 //
 
 import SwiftUI

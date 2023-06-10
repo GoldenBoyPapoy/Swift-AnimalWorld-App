@@ -2,7 +2,7 @@
 //  MotionAnimationView.swift
 //  AnimalWorld
 //
-//  Created by Mustafa on 18.02.2021.
+//  Created by Blue Genius on 18.02.2021.
 //
 
 import SwiftUI
